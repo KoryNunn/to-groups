@@ -1,0 +1,25 @@
+{
+  "name": "to-groups",
+  "version": "1.0.0",
+  "description": "Take an array of items, and produce an object with groups of its elements based on a hashing function.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tape": "^4.6.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KoryNunn/group-by.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KoryNunn/group-by/issues"
+  },
+  "homepage": "https://github.com/KoryNunn/group-by#readme"
+}
